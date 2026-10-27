@@ -2,7 +2,7 @@
 
 ## Phần 1:
 - Cơ chế gồm 4 bước:
-  + Bật AutoFilter (Ctrl+Shift+L). E
+  + Bật AutoFilter (Ctrl+Shift+L). 
   + Bấm dấu mũ tên giống hình tam giác, Excel liệt kê các giá trị duy nhất của cột đó dưới dạng ô tích chọn, kèm một ô Search.
   + Gõ từ khóa vào Search, danh sách giá trị thu hẹp ngay theo kiểu “chứa từ khóa”. Ví dụ gõ “MW00” sẽ ra mọi mã bắt đầu bằng MW00.
   + Bấm OK, Excel ẩn các dòng không khớp. Dữ liệu gốc không bị xóa hay sửa, bỏ lọc là hiện lại đủ.
